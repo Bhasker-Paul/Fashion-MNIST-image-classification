@@ -37,8 +37,11 @@ Classes (Labels): 10
 
 
 Technologies Used
+
 Python
+
 TensorFlow
+
 Keras
 
 NumPy
