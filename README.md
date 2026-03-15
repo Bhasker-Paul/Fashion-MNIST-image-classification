@@ -34,12 +34,11 @@ Classes (Labels): 10
 | 7     | Sneaker     |
 | 8     | Bag         |
 | 9     | Ankle boot  |
+
+
 Technologies Used
-
 Python
-
 TensorFlow
-
 Keras
 
 NumPy
